@@ -1,0 +1,9 @@
+{
+  "weight_catboost": 0.7,
+  "weight_lgb": 0.3,
+  "validation_auc": {
+    "catboost": 0.7618113775207064,
+    "lightgbm": 0.7618139835994399,
+    "ensemble": 0.7619285183432558
+  }
+}
